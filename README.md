@@ -1,9 +1,14 @@
-# Octave on mybinder.org
+# Octave environment
+
+[![repo2wasm](https://img.shields.io/badge/any_text-launch-F37626?logo=jupyter&label=Jupyter)](https://repo2wasm.github.io/template-requirements)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=index.ipynb)
 
-An example of using Octave on [mybinder.org](https://mybinder.org/).
+A repo compatible with `repo2wasm` and mybinder.org using a `environment.yml` as configuration file.
 
-This shows you how to make Matlab code that works with [Octave](https://www.gnu.org/software/octave/) run on [mybinder.org](https://mybinder.org/).
+Access the live version of this repo at
+
+- [GitHub Pages](https://repo2wasm.github.io/template-octave)
+- [mybinder.org](http://mybinder.org/v2/gh/repo2wasm/template-octave/HEAD)
 
 The [example notebook](index.ipynb) is taken from the [octave_kernel](https://github.com/Calysto/octave_kernel) repository.
